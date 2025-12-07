@@ -30,13 +30,6 @@ Every commit builds a story in my coding city! Watch it grow over time.
 
 <div align="center">
 
-![GitHub Skyline](https://skyline.github.com/BraedynL0530/2024/png)
-
-**🎮 Interactive 3D Visualizations:**
-- 🌆 [GitHub Skyline](https://skyline.github.com/BraedynL0530/2024) - Download and rotate your commit city in 3D!
-- 🏗️ [Commit City](https://honzaap.github.io/GithubCity/?name=BraedynL0530) - Interactive browser-based city builder
-
-</div>
 
 ## 📈 Activity Graph
 
