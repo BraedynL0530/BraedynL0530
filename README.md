@@ -24,9 +24,6 @@
 
 </div>
 
-## 🏙️ Code City - My Commit History
-
-Every commit builds a story in my coding city! Watch it grow over time.
 
 <div align="center">
 
