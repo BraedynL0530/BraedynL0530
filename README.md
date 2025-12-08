@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm BraedynL0530
+# Hey there! 👋 I'm Braedyn
 
 > Python & Django dev | Learning Go | Building full-stack with React & Tailwind 🚀
 
