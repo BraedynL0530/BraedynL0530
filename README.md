@@ -32,12 +32,6 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BraedynL0530&theme=react-dark&hide_border=true&area=true)
 
-## 💻 Most Used Languages
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BraedynL0530&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
-
 </div>
 
 ## 🔥 Streak 
