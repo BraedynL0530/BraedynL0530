@@ -14,15 +14,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-## 📊 GitHub Stats
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraedynL0530&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BraedynL0530&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866)
-
-</div>
 
 
 <div align="center">
