@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Braedyn
 
-> Python & Django dev | Learning Go | Building full-stack with React & Tailwind 🚀
+> Python & Django dev | Learning Go | Building full-stack with React  🚀
 
 ## 🛠️ Tech Stack
 
