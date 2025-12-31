@@ -14,12 +14,11 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-
+<br>
 
 ## What i'm up to:
 
-building my portolio website
-<br>
+### Building my portolio website
 <br>
 <br>
 <br>
