@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Braedyn
 
-> Python & Django dev | Learning Go | Building full-stack with React  🚀
+> Python dev | Learning Go & ML| Building full-stack with Django + React 🚀
 
 ## 🛠️ Tech Stack
 
@@ -16,54 +16,13 @@
 
 
 
+## What i'm up to:
 
-<div align="center">
+building my portolio website
 
 
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BraedynL0530&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
-## 🔥 Streak 
-
-<div align="center">
-
-![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=BraedynL0530&theme=dark&hide_border=true)
-
-**Is it still going?**
-
-</div>
-
-## 🎯 What I'm Up To
-
-```python
-# Currently learning and building with
-stack = {
-    "backend": ["Python", "Django", "Learning Go"],
-    "frontend": ["React", "JavaScript", "HTML/CSS"],
-    "styling": ["Tailwind CSS"],
-    "databases": ["Django ORM", "Redis"],
-}
-
-goals = [
-    "🚀 Master Django + React full-stack",
-    "📚 Get solid with Go + ML",
-    "🏗️ Build more side projects",
-    "💪 Keep that streak alive",
-]
-
-for goal in goals:
-    print(f"✓ {goal}")
-```
 
 
 <div align="center">
-  
-
-![Visitor Count](https://komarev.com/ghpvc/?username=BraedynL0530&color=F85D7F&style=flat-square)
-
 *"I am always doing what I cannot do, in order that I may learn how to do it" – Pablo Picasso*
-
 </div>
