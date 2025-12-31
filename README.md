@@ -19,10 +19,16 @@
 ## What i'm up to:
 
 building my portolio website
-
+<br>
 
 
 
 <div align="center">
+
+  
 *"I am always doing what I cannot do, in order that I may learn how to do it" – Pablo Picasso*
+
+
 </div>
+
+
