@@ -22,11 +22,9 @@ building my portolio website
 <br>
 <br>
 <br>
-\n
-\n
-\n
-
-
+<br>
+<br>
+<br>
 
 <div align="center">
 
