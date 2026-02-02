@@ -18,7 +18,9 @@
 
 ## What i'm up to:
 
-### Building my portolio website
+### Building my portolio website(paused while i learn something for it)
+<br>
+### Building Devpulse
 <br>
 <br>
 <br>
