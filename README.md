@@ -21,8 +21,7 @@
 ### Building my portolio website(paused while i learn something for it)
 <br>
 
-### Building Devpulse
-
+### Plannimg a linter libary for python and golang
 <br>
 <br>
 <br>
