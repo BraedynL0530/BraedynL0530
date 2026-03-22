@@ -18,7 +18,7 @@
 
 ## What i'm up to:
 
-### Building my portolio website(paused while i learn something for it)
+### Building my portolio website(slower due to school)
 <br>
 
 ### Plannimg a linter libary for python and golang
