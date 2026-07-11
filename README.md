@@ -1,7 +1,6 @@
 # Hey there! 👋 I'm Braedyn
 
-> Python dev | Learning Go & ML| Building full-stack with Django + React 🚀
-
+> Python, Go, and Machine Learning dev| backend passion forced into fullstack
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -15,7 +14,7 @@
 
 ## What i'm up to:
 
-### Building my portolio website(polishing + blog remaining)
+### Stardance projects 
 <br>
 
 ### Creating a model and research paper
