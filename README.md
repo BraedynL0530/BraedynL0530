@@ -33,7 +33,7 @@ Building an AI-powered satellite monitoring platform that detects deforestation 
 
 ### 📄 Research Paper
 
-Writing a research paper alongside my machine learning work on remote sensing and environmental monitoring.
+Writing a research paper alongside my machine learning work on a new vision ai architecture. 
 
 ### 📚 Learning
 
