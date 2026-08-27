@@ -27,11 +27,11 @@
 
 ## 🚀 Currently Working On
 
-### 🌳 CanopyWatch
+### 🌳 CanopyWatch(Paused till v2)
 
 Building an AI-powered satellite monitoring platform that detects deforestation using Sentinel-2 imagery and deep learning.
 
-### 📄 Research Paper
+### 📄 Research Paper(Paused)
 
 Writing a research paper alongside my machine learning work on a new vision ai architecture. 
 
