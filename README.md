@@ -8,7 +8,6 @@
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square\&logo=django\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square\&logo=go\&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
